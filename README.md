@@ -19,6 +19,10 @@ Bootstrap Parallax Template: quick start using `bootstrap`. This was created usi
 <a class="navbar-brand" href="#">Testing Name Here</a>
 ```
 
+## Demo
+
+[a link](http://minorsolis.github.io/bootstrapParallax/)
+
 
 ## Tags (keywords)
 
