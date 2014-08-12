@@ -1,0 +1,4 @@
+bootstrapParallax
+=================
+
+Bootstrap Parallax Template
