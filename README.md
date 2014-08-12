@@ -21,7 +21,7 @@ Bootstrap Parallax Template: quick start using `bootstrap`. This was created usi
 
 ## Demo
 
-[a link](http://minorsolis.github.io/bootstrapParallax/)
+[http://minorsolis.github.io/bootstrapParallax/](http://minorsolis.github.io/bootstrapParallax/)
 
 
 ## Tags (keywords)
