@@ -1,7 +1,7 @@
 # bootstrapParallax
 ======
 
-Bootstrap Parallax Template: quick start using `bootstrap`. This was created using a web tutorial, I removed the google maps stuff and added the soft scroll effect.
+Bootstrap Parallax Template: quick start using `bootstrap`. This was created using a web tutorial, I removed the google maps stuff and added the carousel.
 
 ## Setup
 
