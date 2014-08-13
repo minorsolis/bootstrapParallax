@@ -8,7 +8,8 @@ html, body { height: 100%;  width: 100%; }
 .text-vcenter h1 { font-size: 4.5em;  font-weight: 700;  margin: 0;  padding: 0; }
 /* additional sections */
 #box1 { background: url(../img/home/1.jpg) no-repeat center center fixed;  display: table;  height: 100%;  position: relative;  width: 100%;  -webkit-background-size: cover;  -moz-background-size: cover;  -o-background-size: cover;  background-size: cover; }
-#about {}
+#box2{ background-color: #EA8200; color: white;}
+#box3{ background-color: #182C3C; color: white;}
 #services { background-color: #EE2E24;  color: #ffffff; }
 #services .glyphicon { border: 2px solid #FFFFFF;  border-radius: 50%;  display: inline-block;  font-size: 60px;  height: 140px;  line-height: 140px;  text-align: center;  vertical-align: middle;  width: 140px; }
 #information { background: url(../img/home/2.jpg) no-repeat center center fixed;  display: table;  height: 800px;  position: relative;  width: 100%;  -webkit-background-size: cover;  -moz-background-size: cover;  -o-background-size: cover;  background-size: cover; }
